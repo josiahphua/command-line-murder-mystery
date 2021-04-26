@@ -1,0 +1,69 @@
+ cd command-line-murder-mystery/
+ grep -r "CLUE" *
+ grep -r "Annabel" *
+ ls
+ cd myste
+ cd mystery/
+ ls
+ cat -n 179 interviews/ | tail -n 5
+ head -n 179 interviews[C/ | tail -n 5
+ ls interviews/
+ grep "179" interviews/
+ grep "179" *
+ grep -A "Annabel" *
+ grep -A "Annabel" interviews/
+ ls
+ grep -l "Annabel" interviews/
+ grep -l "Annabel" *
+ cd interviews/
+ grep -l "Annabel" *
+ grep -l "179" *
+ cd ..
+ ls
+ grep "Annabel" people 
+ head -n 173 streets/Mattapan_Street | tail -n 1
+ head -n 179 streets/Buckingham_Place | tail -n 1
+ cd interviews/
+ cat interview-9437737 
+ cat interview-699607
+ cd ..
+ cd vehicles 
+ cat vehicles | grep -A 4 "blue"
+ grep -A 4 "blue" vehicles 
+ grep -l "blue" *
+ head vehicles 
+ grep -ri "blue" vehicles 
+ grep "blue" "honda" vehicles 
+ grep -ri "blue honda" vehicles 
+ grep -ri "blue" vehicles | grep -ri "honda" vehicles 
+ grep -ri -C "blue" vehicles 
+ grep -C "Blue" vehicles | grep "Honda"
+ grep -ri -B "blue" vehicles 
+ grep -B "Blue" vehicles 
+ grep -B 5 "Blue" vehicles 
+ grep -B 8 "Blue" vehicles 
+ grep -B 8 "L337" vehicles 
+ grep -A 8 "L337" vehicles 
+ grep -A 6 "L337" vehicles 
+ history
+ ls
+ cat memberships/AAA | grep "Jeremy"
+ cat memberships/Delta_SkyMiles | grep "Jeremy"
+ cat memberships/Delta_SkyMiles | grep "Jeremy"
+ cat memberships/ | grep "Jeremy_Bowers" | wc -1
+ cat -n memberships/ | grep "Jeremy_Bowers"
+ cat -n memberships/AAA memberships/Delta_SkyMiles memberships/Muse | grep "Jeremy_Bowers"
+ cat -n memberships/AAA memberships/Delta_SkyMiles memberships/Museum_of_Bash_Historyse | grep "Jeremy_Bowers"
+ cat -n memberships/AAA memberships/Delta_SkyMiles memberships/Museum_of_Bash_History | grep "Jeremy_Bowers"
+ cat wc -1 memberships/AAA memberships/Delta_SkyMiles memberships/Museum_of_Bash_History | grep "Jeremy_Bowers"
+ cat memberships/AAA memberships/Delta_SkyMiles memberships/Museum_of_Bash_History | grep "Jeremy_Bowers" | wc -1
+ cat memberships/AAA memberships/Delta_SkyMiles memberships/Museum_of_Bash_History | grep "Jeremy_Bowers"
+ cat memberships/Delta_SkyMiles | grep "Jeremy_Bowers"
+ cat memberships/Delta_SkyMiles | grep "JeremyBowers"
+ cat memberships/Delta_SkyMiles | grep "Jeremy Bowers"
+ cat memberships/Delta_SkyMiles memberships/AAA memberships/Museum_of_Bash_History | grep "Jeremy Bowers" | wc -1
+ cat memberships/Delta_SkyMiles memberships/AAA memberships/Museum_of_Bash_History | grep "Jeremy Bowers" 
+ ls memberships/
+ cat memberships/Delta_SkyMiles memberships/AAA memberships/Museum_of_Bash_History memberships/Terminal_City_Library | grep "Jeremy Bowers" 
+ cat memberships/Delta_SkyMiles memberships/AAA memberships/Museum_of_Bash_History memberships/Terminal_City_Library | grep "Jacqui Maher" 
+ history
