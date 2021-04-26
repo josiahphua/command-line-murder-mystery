@@ -67,3 +67,6 @@
  cat memberships/Delta_SkyMiles memberships/AAA memberships/Museum_of_Bash_History memberships/Terminal_City_Library | grep "Jeremy Bowers" 
  cat memberships/Delta_SkyMiles memberships/AAA memberships/Museum_of_Bash_History memberships/Terminal_City_Library | grep "Jacqui Maher" 
  history
+
+
+Jeremy Bowers is the muderer. 
